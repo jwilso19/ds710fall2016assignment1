@@ -1,8 +1,28 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+
+My name is James Wilson.
+
 2. Why are you interested in Data Science?
+
+I currently work in analysis, but I would like to broaden my skills.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+
+I took 2 years of Basic in high school in the mid 80s.  I played around a little with C++ in the 90s and VBA in the 00s.  Recently, I began to teach myself Python.  I currently use Python to extract data from text and Excel files.  Most of the code was written by an intern, but I have to be able to modify the code as the input data changes, or new requirements for the output come into play.  There are more processes that I would like to use Python for as I become more proficient.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+
+I completed Elementary Statistics (MTH 117?) this summer as a prerequisite to the program.  I mostly use statistics in my job to identify outliers that may indicate errors in the data.
+
 5.  Do you have other experience with R or Python?
+
+I have never used R, but as mentioned above, I have some experience with Python.
+
 6.  What do you hope to learn in this class?
+
+I would like to be able to write fuctional and helpful code that will save me time at work.
+
 7.  Is there anything else you would like to share with us?
+
+Not at this time.
